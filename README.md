@@ -1,2 +1,1 @@
-# newGitTest
-print("Hello World")
+TestGit
